@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Shaurya Singh** 👋<br><br>**2nd Year Undergrad at IIST | Embedded Firmware & Edge AI Enthusiast**<br><br>I specialize in low-level firmware development for the ARM Cortex-M4 architecture. My work focuses on bridging the gap between raw silicon and high-level intelligence (Edge AI).<br><br>- Currently Working On: A [Modular RTOS Industrial Controller] with a TinyML inference engine.<br>- Key Skills: Bare-Metal Register Programming, DMA Pipelines, NVIC, I2C/SPI/UART.<br>- Goal: Designing efficient, deterministic on-device AI for semiconductor giants.<br><br>**I also excel in**<br>DSA in C++ & Full Stack Web Developement
+Hi, I'm **Shaurya Singh** 👋<br><br>**2nd Year Undergrad at IIST | Embedded Firmware & Edge AI Enthusiast**<br><br>I specialize in low-level firmware development for the ARM Cortex-M4 architecture. My work focuses on bridging the gap between raw silicon and high-level intelligence (Edge AI).<br><br>- Currently Working On: A [Modular RTOS Industrial Controller] with a TinyML inference engine.<br>- Key Skills: Bare-Metal Register Programming, DMA Pipelines, NVIC, I2C/SPI/UART.<br>- Goal: Designing efficient, deterministic on-device AI for semiconductor giants.<br><br>**Also excels in**<br>DSA in C++ & Full Stack Web Developement
 
 
 ## 🌐 Socials:
