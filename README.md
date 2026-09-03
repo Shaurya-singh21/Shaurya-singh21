@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Shaurya Singh** 👋<br><br>**2nd Year Undergrad at IIST | Embedded Firmware & Edge AI Engineer**<br><br>I specialize in low-level firmware development for the ARM Cortex-M4 architecture. My work focuses on bridging the gap between raw silicon and high-level intelligence (Edge AI).<br><br>- Currently Working On: A [Modular RTOS Industrial Controller] with a TinyML inference engine.<br>- Key Skills: Bare-Metal Register Programming, DMA Pipelines, NVIC, I2C/SPI/UART.<br>- Goal: Designing efficient, deterministic on-device AI for semiconductor giants.<br><br>**Also excels in**<br>DSA in C++ & Full Stack Web Developement
+Hi, I'm **Shaurya Singh** 👋<br><br>**3rd Year Undergrad at IIST | Embedded Firmware & Edge AI Engineer**<br><br>I specialize in low-level firmware development for the ARM Cortex-M4 architecture. My work focuses on bridging the gap between raw silicon and high-level intelligence (Edge AI).<br>- Key Skills: Bare-Metal Register Programming, DMA Pipelines, NVIC, I2C/SPI/UART.<br>- Goal: Designing efficient, deterministic on-device AI for semiconductor giants.<br><br>**Also excel in**<br>DSA in C++ & Full Stack Web Developement
 
 
 ## 🌐 Socials:
@@ -18,9 +18,7 @@ Hi, I'm **Shaurya Singh** 👋<br><br>**2nd Year Undergrad at IIST | Embedded Fi
 
 # Tools:
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shaurya-singh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shaurya-singh21&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-singh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
