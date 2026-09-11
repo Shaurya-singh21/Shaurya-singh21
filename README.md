@@ -23,29 +23,25 @@ Bare-metal ARM Cortex-M4 firmware and on-device inference — bridging raw silic
 Dual-partition bare-metal bootloader on STM32F446RE with CRC32 boot validation via the hardware CRC peripheral, selective sector erase, and a Python/pyserial host tool that streams firmware in checksummed 256-byte chunks over UART.
 - **Stack:** STM32F446RE (zero-HAL, register-level), C, Python
 - **Status:** Complete — full erase/transfer/flash/jump cycle verified end-to-end)
-
+- **Code:** https://github.com/Shaurya-singh21/Custom_IAP_Bootloader
+  
 ### FreeRTOS Motor Bearing Fault Detection
 Real-time fault classification (healthy / imbalance / bearing fault / transient shock) on a spinning motor. MPU6050 accelerometer sampled via I2C+DMA double-buffering, on-device FFT feature extraction, Random Forest inference (15 features, 4 classes) running inside a multi-task FreeRTOS pipeline, results out over UART and OLED.
 - **Stack:** STM32F446RE, FreeRTOS, C, scikit-learn (offline training)
 - **Status:** Complete — inference pipeline running on-device with OLED integartion complete
-
+- **Code:** https://github.com/Shaurya-singh21/TinyML-Motor-Fault-Detection-Predictive-Maintenance
+  
 ### DMA-Driven Environmental Monitoring Platform
 Nine-peripheral, zero-HAL bare-metal platform: dual DMA channels, ADC, four timers, I2C, UART, GPIO/EXTI, and an SSD1306 OLED. Closed-loop actuation — vents and a fan driven directly off temperature thresholds.
 - **Stack:** STM32F446RE (register-level, no HAL)
 - **Status:** Complete
-
-
-### CUDA MNIST Inference Benchmark
-Three-stage CUDA C++ inference benchmark for a PyTorch-trained MLP: hand-written naive kernels → tiled shared-memory kernels → cuBLAS, profiled with Nsight Compute. Built as CUDA fundamentals practice ahead of Jetson/TensorRT work.
-- **Stack:** CUDA C++, PyTorch, Nsight Compute
-- **Status:** In progress — naive version verified correct, tiled version in development
-
+- **Code:** https://github.com/Shaurya-singh21/DMA-Driven-Environmental-Monitoring-Control-Platform
 
 ### Neuromorphic FPGA SNN Accelerator — ISRO URSC Research Internship
 Six-stage pipelined spiking neural network accelerator on a Xilinx Virtex-7, evaluated against a CNN baseline: 95.0% accuracy, 7x fewer parameters, 39% lower energy.
 - **Stack:** Verilog RTL, Xilinx Virtex-7
 - **Status:** Complete (internship deliverable)
-
+- **Code:** https://github.com/Shaurya-singh21/URSC_Internship_2026
 
 ## 💻 Tech Stack
 
