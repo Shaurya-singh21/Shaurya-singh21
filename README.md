@@ -70,14 +70,16 @@ Six-stage pipelined spiking neural network accelerator on a Xilinx Virtex-7, eva
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 Also comfortable with DSA in C++ (Striver A2Z, ~150 problems).
+
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya-singh21/Shaurya-singh21/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya-singh21/Shaurya-singh21/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shaurya-singh21/Shaurya-singh21/output/github-snake.svg">
 </picture>
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-singh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🗓️ 3D Contribution Calendar
+![3D contribution calendar](https://raw.githubusercontent.com/Shaurya-singh21/Shaurya-singh21/main/profile-3d-contrib/profile-night-green.svg)
 
 ## 🤝 Let's Connect
 Building or hiring for embedded firmware / edge AI work — reach out.
